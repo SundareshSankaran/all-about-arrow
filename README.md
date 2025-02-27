@@ -5,3 +5,8 @@ This repo contains scripts and instructions to acquaint users with Apache Arrow,
 
 Refer [here](./doc/Installation.md) for instructions on how to install pyarrow.
 
+## Examples
+
+All examples available in this [folder](/examples/).
+
+1. Quick Demo: to show the basics, getting started:  [here](/examples/quick-demo.ipynb)
